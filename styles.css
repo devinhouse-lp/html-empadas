@@ -1,0 +1,34 @@
+.header-color {
+    background-color: rgb(250, 170, 22);
+    color: rgb(165, 108, 2);
+}
+
+.txt-orange {
+    color: rgb(250, 170, 22);
+}
+
+.imgs-home {
+    max-width: 300px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+.imgs-user {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    object-fit: cover;
+}
+
+.imgs-cardapio {
+    object-fit: cover;
+    width: 250px;
+    height: 200px;
+}
+
+.custom-table th {
+    background-color: rgb(250, 170, 22);
+    color: rgb(255, 255, 255);
+}
